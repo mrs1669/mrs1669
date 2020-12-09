@@ -5,7 +5,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrs1669&theme=highcontrast&layout=compact&langs_count=12">
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mrs1669">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod">
 </a>
 
 **mrs1669/mrs1669** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
