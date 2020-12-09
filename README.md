@@ -1,10 +1,6 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=mrs1669&count_private=true&show_icons=true&theme=radical"/> <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=mrs1669&count_private=true&show_icons=true&theme=merko"/> <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=mrs1669&count_private=true&show_icons=true&theme=gruvbox"/> <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=mrs1669&count_private=true&show_icons=true&theme=tokyonight"/> <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=mrs1669&count_private=true&show_icons=true&theme=highcontrast"/> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrs1669&theme=dracula">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrs1669&theme=radical">
 </a>
 
 
