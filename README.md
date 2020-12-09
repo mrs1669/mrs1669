@@ -2,7 +2,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mrs1669&count_private=true&show_icons=true&theme=nightowl"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrs1669&theme=highcontrast&layout=compact&langs_count=8">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrs1669&theme=highcontrast&layout=compact&langs_count=12">
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/wakatime/?username=mrs1669&theme=dracula">
