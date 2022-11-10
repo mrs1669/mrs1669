@@ -11,4 +11,4 @@
 </a>
 -->
 
-- 🌱 I’m currently learning swift
+![fire](https://user-images.githubusercontent.com/40351476/201081649-ad7572d4-63c7-4e49-8e6e-3a242d64f307.gif) I’m currently learning swift! ![fire](https://user-images.githubusercontent.com/40351476/201081649-ad7572d4-63c7-4e49-8e6e-3a242d64f307.gif)
