@@ -1,5 +1,5 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrs1669&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mrs1669&count_private=true&theme=nightowl"/>
 </a>
 
 <!--
