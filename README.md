@@ -2,6 +2,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mrs1669&count_private=true&theme=nightowl"/>
 </a>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=mrs1669&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrs1669&theme=highcontrast&layout=compact&langs_count=20">
