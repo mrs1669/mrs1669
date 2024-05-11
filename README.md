@@ -5,6 +5,8 @@
 </a>
 
 <!--START_SECTION:lapras-card-->
+<p align="center"><a href="https://lapras.com/public/mrs1669" target="_blank" rel="noopener noreferrer"><img alt="Score of {SHARE_ID} on LAPRAS" src="https://lapras-card-generator.vercel.app/api/svg?e=3.99&b=3.36&i=3.62&b1=%2305111d&b2=%2305111d&i1=%239a68c3&i2=%239a68c3&l=en" width="400" ></a>  
+Last Updated on 5/11/2024, 9:58:48 AM</p>
 <!--END_SECTION:lapras-card-->
 
 <!--
