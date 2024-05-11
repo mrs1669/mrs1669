@@ -1,0 +1,25 @@
+name: LAPRAS Card
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  update-card:
+    name: LAPRAS Card
+    runs-on: ubuntu-latest
+    steps:
+      - uses: kawamataryo/lapras-card-readme@main
+        with:
+          SHARE_ID: "https://lapras.com/public/mrs1669"
+          ICON_FIRST: "#9a68c3"
+          ICON_SECOND: "#9a68c3"
+          BACKGROUND_FIRST: "#05111d"
+          BACKGROUND_SECOND: "#05111d"
+          LANG: "en"
+          CARD_WIDTH: "400"
+          UPDATE_TIME: "true"
+          README_FILE: "README.md"
+          IS_CENTER: "true"
+          SHARE_ID: "https://lapras.com/public/mrs1669"
