@@ -22,4 +22,5 @@ jobs:
           UPDATE_TIME: "true"
           README_FILE: "README.md"
           IS_CENTER: "true"
-          SHARE_ID: "https://lapras.com/public/mrs1669"
+          ALTERNATIVE_TEXT: "Score of {SHARE_ID} on LAPRAS"
+          SHARE_ID: <YOUR_SHARE_ID>
