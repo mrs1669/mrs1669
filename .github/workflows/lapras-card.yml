@@ -23,4 +23,3 @@ jobs:
           README_FILE: "README.md"
           IS_CENTER: "true"
           ALTERNATIVE_TEXT: "Score of {SHARE_ID} on LAPRAS"
-          SHARE_ID: <YOUR_SHARE_ID>
