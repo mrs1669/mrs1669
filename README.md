@@ -1,13 +1,28 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=mrs1669&theme=dracula&column=10)](https://github.com/mrs1669)
 
-<div style="display: flex; justify-content: space-between;">
-  <a href="https://github.com/anuraghazra/github-readme-stats" style="flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api?username=mrs1669&count_private=true&theme=nightowl" height="210" />
-  </a>
-  <!--START_SECTION:lapras-card-->
-<p align="center"><a href="https://lapras.com/public/mrs1669" target="_blank" rel="noopener noreferrer"><img alt="Score of {SHARE_ID} on LAPRAS" src="https://lapras-card-generator.vercel.app/api/svg?e=3.99&b=3.36&i=3.62&b1=%2305111d&b2=%2305111d&i1=%239a68c3&i2=%239a68c3&l=en" width="200" ></a></p>
-<!--END_SECTION:lapras-card-->
-</div>
+<table style="border-collapse: collapse; width: 100%;">
+  <tr style="border: none;">
+    <td style="border: none; width: 50%;">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=mrs1669&count_private=true&theme=nightowl" height="200" />
+      </a>
+    </td>
+    <td style="border: none; width: 50%;">
+      <!--START_SECTION:lapras-card-->
+      <p align="center">
+        <a href="https://lapras.com/public/mrs1669" target="_blank" rel="noopener noreferrer">
+          <img alt="Score of {SHARE_ID} on LAPRAS" src="https://lapras-card-generator.vercel.app/api/svg?e=3.99&b=3.36&i=3.62&b1=%2305111d&b2=%2305111d&i1=%239a68c3&i2=%239a68c3&l=en" width="300">
+        </a>
+      </p>
+      <!--END_SECTION:lapras-card-->
+    </td>
+  </tr>
+</table>
+
+
+
+
+
 
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
