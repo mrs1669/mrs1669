@@ -2,10 +2,10 @@
 
 <div style="display: flex; justify-content: space-between;">
   <a href="https://github.com/anuraghazra/github-readme-stats" style="flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api?username=mrs1669&count_private=true&theme=nightowl" height="250" />
+    <img src="https://github-readme-stats.vercel.app/api?username=mrs1669&count_private=true&theme=nightowl" height="200" />
   </a>
   <a href="https://lapras.com/public/mrs1669" style="flex: 1;">
-    <img alt="Score of {SHARE_ID} on LAPRAS" src="https://lapras-card-generator.vercel.app/api/svg?e=3.99&b=3.36&i=3.62&b1=%2305111d&b2=%2305111d&i1=%239a68c3&i2=%239a68c3&l=en" height="250" >
+    <img alt="Score of {SHARE_ID} on LAPRAS" src="https://lapras-card-generator.vercel.app/api/svg?e=3.99&b=3.36&i=3.62&b1=%2305111d&b2=%2305111d&i1=%239a68c3&i2=%239a68c3&l=en" height="200" >
   </a>
 </div>
 
