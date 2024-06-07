@@ -9,7 +9,7 @@
     </td>
     <td style="border: none; width: 50%;">
       <!--START_SECTION:lapras-card-->
-<p align="center"><a href="https://lapras.com/public/mrs1669" target="_blank" rel="noopener noreferrer"><img alt="Score of {SHARE_ID} on LAPRAS" src="https://lapras-card-generator.vercel.app/api/svg?e=4&b=3.36&i=3.62&b1=%2305111d&b2=%2305111d&i1=%239a68c3&i2=%239a68c3&l=en" width="320" ></a></p>
+<p align="center"><a href="https://lapras.com/public/mrs1669" target="_blank" rel="noopener noreferrer"><img alt="Score of {SHARE_ID} on LAPRAS" src="https://lapras-card-generator.vercel.app/api/svg?e=4.01&b=3.36&i=3.62&b1=%2305111d&b2=%2305111d&i1=%239a68c3&i2=%239a68c3&l=en" width="320" ></a></p>
 <!--END_SECTION:lapras-card-->
     </td>
   </tr>
