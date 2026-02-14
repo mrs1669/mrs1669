@@ -1,10 +1,11 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=mrs1669&theme=dracula&column=10)](https://github.com/mrs1669)
+<!--機能していないため一時停止-->
+<!--[![trophy](https://github-profile-trophy.vercel.app/?username=mrs1669&theme=dracula&column=10)](https://github.com/mrs1669)-->
 
 <table style="border-collapse: collapse; width: 100%;">
   <tr style="border: none;">
     <td style="border: none; width: 50%;">
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=mrs1669&count_private=true&theme=nightowl" height="200" />
+       <!-- <img src="https://github-readme-stats.vercel.app/api?username=mrs1669&count_private=true&theme=nightowl" height="200" />-->
       </a>
     </td>
     <td style="border: none; width: 50%;">
