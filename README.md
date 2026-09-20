@@ -1,5 +1,4 @@
-<!--機能していないため一時停止-->
-<!--[![trophy](https://github-profile-trophy.vercel.app/?username=mrs1669&theme=dracula&column=10)](https://github.com/mrs1669)-->
+[![trophy](https://github-trophies.vercel.app/?username=mrs1669&theme=dracula&column=12)](https://github.com/mrs1669)
 
 <table style="border-collapse: collapse; width: 100%;">
   <tr style="border: none;">
