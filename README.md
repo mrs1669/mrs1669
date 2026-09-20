@@ -20,4 +20,4 @@
 
 ![fire](https://user-images.githubusercontent.com/40351476/201081649-ad7572d4-63c7-4e49-8e6e-3a242d64f307.gif) I’m currently learning Kotlin&Swift! ![fire](https://user-images.githubusercontent.com/40351476/201081649-ad7572d4-63c7-4e49-8e6e-3a242d64f307.gif)
 
-[🏢 2024 mytown 🏢](https://honzaap.github.io/GithubCity/?name=mrs1669&year=2024)
+[🏢 2026 mytown 🏢](https://honzaap.github.io/GithubCity/?name=mrs1669&year=2026)
