@@ -1,7 +1,7 @@
 [![trophy](https://github-trophies.vercel.app/?username=mrs1669&theme=dracula&column=12)](https://github.com/mrs1669)
 
 <!--START_SECTION:lapras-card-->
-<p><a href="https://lapras.com/public/mrs1669" target="_blank" rel="noopener noreferrer"><img alt="Score of {SHARE_ID} on LAPRAS" src="https://lapras-card-generator.vercel.app/api/svg?e=3.85&b=3.36&i=3.66&b1=%2305111d&b2=%2305111d&i1=%239a68c3&i2=%239a68c3&l=en" width="320" ></a></p>
+<p ><a href="https://lapras.com/public/mrs1669" target="_blank" rel="noopener noreferrer"><img alt="Score of {SHARE_ID} on LAPRAS" src="https://lapras-card-generator.vercel.app/api/svg?e=3.85&b=3.36&i=3.66&b1=%2305111d&b2=%2305111d&i1=%239a68c3&i2=%239a68c3&l=en" width="320" ></a></p>
 <!--END_SECTION:lapras-card-->
 
 <!--
